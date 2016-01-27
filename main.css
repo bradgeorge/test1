@@ -26,8 +26,7 @@ a {
 }
 
 .enterlink {
-  position:absolute;
-  margin:100px 150px 100px 80px;
+  position:relative;
   width:200px;
   height:500px;
   z-index:16;
