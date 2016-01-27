@@ -4,9 +4,9 @@ body {
   
 }
 
-a:link {
+a {
   color: black;
-  tedt-decoration:none;
+  text-decoration:none;
   
   
 }
