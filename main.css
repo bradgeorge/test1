@@ -23,7 +23,7 @@ footer {
   
 }
 
-#outPopUp{
+.outPopUp{
      position:absolute;
      width:300px;
      height:200px;
@@ -34,7 +34,7 @@ footer {
      background:red;
 }
 
-#center {
+.center {
 	margin: 0 auto;
 	
 }
