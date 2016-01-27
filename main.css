@@ -1,6 +1,13 @@
 body {
-  background-color: black ;
+  background-color: #f8f8f8 ;
   float:none;
+  
+}
+
+a {
+  color: black;
+  tedt-decoration:none;
+  
   
 }
 
@@ -21,6 +28,7 @@ body {
 .enterlink {
   position:absolute;
   top:200px;
+  left:500px;
   width:200px;
   height:500px;
   
