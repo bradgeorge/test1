@@ -14,16 +14,15 @@ body {
   transform: translateY(-50%);
   width:500px;
   height:336px;
-  position:fixed;
 
   
 }
 
 .enterlink {
   position:absolute;
+  top:200px;
   width:200px;
   height:500px;
-
   
   
 }
