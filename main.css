@@ -4,7 +4,7 @@ body {
   
 }
 
-a {
+a:link {
   color: black;
   tedt-decoration:none;
   
