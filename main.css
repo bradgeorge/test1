@@ -2,3 +2,10 @@ body {
   background-color: blue ;
   
 }
+
+.wrapper {
+  width:200px;
+  height:200px;
+  background:red;
+  
+}
