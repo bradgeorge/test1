@@ -6,34 +6,3 @@ body {
   color:#4e4e4e;
   
 }
-
-a {
-  text-decoration: none;
-  color: #555;
-  font-size: 12px; 
-}
-
-footer {
-  position:fixed;
-  top:px;
-  font-size:12px;
-  
-}
-
-
-
-.box {
-  
-  position:absolute;
-  width:300px;
-  height:200px;
-  z-index:15;
-  top:50%;
-  left:50%;
-  margin:-100px 0 0 -150px;
-  background:red;
-
-}
-
-
-
