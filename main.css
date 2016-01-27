@@ -1,11 +1,14 @@
 body {
-  background-color: blue ;
+  background-color: white ;
+  float:none;
   
 }
 
 .wrapper {
 
   background:red;
+  margin:0 auto;
+  display:block;
 
      width:300px;
     height:200px;
