@@ -14,8 +14,6 @@ body {
   transform: translateY(-50%);
   width:500px;
   height:336px;
-  -webkit-box-shadow: 14px -2px 35px -11px rgba(0,0,0,0.75);
-  -moz-box-shadow: 14px -2px 35px -11px rgba(0,0,0,0.75);
-  box-shadow: 14px -2px 35px -11px rgba(0,0,0,0.75);
+
   
 }
